@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.big-checkbox {
+  transform: scale(1.5) translateX(15%);
+}
